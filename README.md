@@ -29,8 +29,7 @@
 
 
 
-![snake gif](https://github.com/netinho99/netinho99/blob/output/github-snake-dark.svg)
-
+<img src="https://raw.githubusercontent.com/netinho99/netinho99/output/github-snake-dark.svg" width="700" />
 
 
 
