@@ -9,7 +9,7 @@
 ### 📈 GitHub Stats
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=netinho99&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=netinho99&layout=compact&theme=tokyonight" />
+  <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=netinho99&layout=compact&theme=dracula" />
 </p>
 ### 🛠️ Tecnologias & Ferramentas que uso e estudo
 
