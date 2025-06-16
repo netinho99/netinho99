@@ -25,3 +25,5 @@
 - 💭 Testes, ideias e aprendizados em constante evolução
 
 <p align="center">🛸 Sempre aprendendo, sempre codando — bem-vindo ao meu <strong>Githobby</strong>!</p>
+
+![Snake animation](https://github.com/netinho99/netinho99/blob/output/github-contribution-grid-snake.svg)
