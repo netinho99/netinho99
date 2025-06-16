@@ -1,12 +1,12 @@
-<h1>👋 Olá! Eu sou o Elongio Neto</h1>
+<h2>👋 Olá! Eu sou o Elongio Neto</h2>
 
-<p>
+<p align="center">
   🎓 Estudante de Engenharia de Software <br>
   💻 Apaixonado por tecnologia, programação e desenvolvimento web <br>
   🎨 Curto muito front-end e estou explorando o universo do back-end <br>
   🚀 Este é o meu Githobby: onde pratico, estudo e compartilho o que aprendo
 </p>
-<p align="center">
+<p>
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=netinho99&show_icons=true&theme=tokyonight" />
   <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=netinho99&layout=compact&theme=dracula" />
 </p>
