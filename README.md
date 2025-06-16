@@ -26,10 +26,11 @@
 - 🧪 Experimentos com frameworks e conceitos de back-end
 - 💭 Testes, ideias e aprendizados em constante evolução
 
-<p align="center">
-  
-  <img src="https://github.com/netinho99/netinho99/blob/output/github-contribution-grid-snake.svg?color_snake=00BFFF&color_dots=4B0082,800080"/>
 
-</p>
+
+
+![snake gif](https://github.com/netinho99/netinho99/blob/output/github-snake-dark.svg)
+
+
 
 
