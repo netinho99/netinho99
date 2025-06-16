@@ -2,8 +2,11 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # roda todo dia à meia-noite
-  workflow_dispatch:  # permite rodar manualmente
+    - cron: "0 0 * * *" # Roda todo dia à meia-noite
+  workflow_dispatch: # Permite rodar manualmente
+
+permissions:
+  contents: write  # <-- Isso aqui é o que estava faltando
 
 jobs:
   generate:
