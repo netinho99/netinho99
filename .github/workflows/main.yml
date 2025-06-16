@@ -22,10 +22,8 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake.gif
-          svg_out_path: dist/github-contribution-grid-snake.svg
-          gif_out_path: dist/github-contribution-grid-snake.gif
-          color_snake: '#00FF00'
-          color_dots: '#1F1F1F,#333333'
+          color_snake: '#00BFFF'               # azul (Deep Sky Blue)
+          color_dots: '#4B0082,#800080'        # roxo escuro + púrpura
 
       - name: Push to GitHub
         uses: crazy-max/ghaction-github-pages@v3
