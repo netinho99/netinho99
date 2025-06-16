@@ -6,6 +6,7 @@
   🎨 Curto muito front-end e estou explorando o universo do back-end <br>
   🚀 Este é o meu Githobby: onde pratico, estudo e compartilho o que aprendo
 </p>
+### 📈 GitHub Stats
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=netinho99&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=netinho99&layout=compact&theme=tokyonight" />
@@ -24,12 +25,5 @@
 - 📘 Projetos de estudo em HTML, CSS, JS, Python e Node.js
 - 🧪 Experimentos com frameworks e conceitos de back-end
 - 💭 Testes, ideias e aprendizados em constante evolução
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=netinho99&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=netinho99&layout=compact&theme=tokyonight" />
-</p>
 
 <p align="center">🛸 Sempre aprendendo, sempre codando — bem-vindo ao meu <strong>Githobby</strong>!</p>
