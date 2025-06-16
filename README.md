@@ -27,6 +27,9 @@
 
 
 <p align="center">
-  <img src="https://github.com/netinho99/netinho99/blob/output/github-contribution-grid-snake.svg" width="700" />
+  
+  <img src="<img src="https://github.com/netinho99/netinho99/blob/output/github-contribution-grid-snake.svg?color_snake=00BFFF&color_dots=4B0082,800080"/>
+
 </p>
+
 
