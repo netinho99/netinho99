@@ -1,4 +1,6 @@
 <h2>👋 Olá! Eu sou o Elongio Neto</h2>
+<p align="center">🛸 Sempre aprendendo, sempre codando — bem-vindo ao meu <strong>Githobby</strong>!</p>
+
 
 <p align="center">
   🎓 Estudante de Engenharia de Software <br>
@@ -23,8 +25,6 @@
 - 📘 Projetos de estudo em HTML, CSS, JS, Python e Node.js
 - 🧪 Experimentos com frameworks e conceitos de back-end
 - 💭 Testes, ideias e aprendizados em constante evolução
-<p align="center">🛸 Sempre aprendendo, sempre codando — bem-vindo ao meu <strong>Githobby</strong>!</p>
-
 
 <p align="center">
   
