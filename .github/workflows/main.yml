@@ -2,11 +2,11 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Roda todo dia à meia-noite
-  workflow_dispatch: # Permite rodar manualmente
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 permissions:
-  contents: write  # <-- Isso aqui é o que estava faltando
+  contents: write
 
 jobs:
   generate:
@@ -22,6 +22,10 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake.gif
+          svg_out_path: dist/github-contribution-grid-snake.svg
+          gif_out_path: dist/github-contribution-grid-snake.gif
+          color_snake: '#00FF00'
+          color_dots: '#1F1F1F,#333333'
 
       - name: Push to GitHub
         uses: crazy-max/ghaction-github-pages@v3
