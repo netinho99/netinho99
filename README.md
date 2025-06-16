@@ -26,4 +26,4 @@
 
 <p align="center">🛸 Sempre aprendendo, sempre codando — bem-vindo ao meu <strong>Githobby</strong>!</p>
 
-![Snake animation](https://github.com/netinho99/netinho99/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/netinho99/ElongioNetoDevjrweb/blob/output/github-contribution-grid-snake.svg)
