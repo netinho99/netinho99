@@ -23,13 +23,10 @@
 - 📘 Projetos de estudo em HTML, CSS, JS, Python e Node.js
 - 🧪 Experimentos com frameworks e conceitos de back-end
 - 💭 Testes, ideias e aprendizados em constante evolução
-
 <p align="center">🛸 Sempre aprendendo, sempre codando — bem-vindo ao meu <strong>Githobby</strong>!</p>
+
+
 <p align="center">
   <img src="https://github.com/netinho99/netinho99/blob/output/github-contribution-grid-snake.svg" width="700" />
 </p>
 
-
-![Snake animation]<p align="center">
-  <img src="https://github.com/netinho99/netinho99/blob/output/github-contribution-grid-snake.svg" width="700" />
-</p>
