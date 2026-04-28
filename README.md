@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  🎓 Estudante de Engenharia de Software <br>
+  🎓 Estudo no Senai-Pr ADS
   💻 Apaixonado por tecnologia, programação e desenvolvimento web <br>
   🎨 Curto muito front-end e estou explorando o universo do back-end <br>
   🚀 Este é o meu Githobby: onde pratico, estudo e compartilho o que aprendo
