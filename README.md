@@ -16,17 +16,7 @@
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-💡 O que você vai encontrar por aqui
-
-- 📂 Repositórios simples com foco em lógica de programação
-- 📘 Projetos de estudo em HTML, CSS, JS, Python e Node.js
-- 🧪 Experimentos com frameworks e conceitos de back-end
-- 💭 Testes, ideias e aprendizados em constante evolução
-
-
 
 
 <img src="https://raw.githubusercontent.com/netinho99/netinho99/output/github-snake-dark.svg" width="700" />
