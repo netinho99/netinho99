@@ -1,13 +1,4 @@
-<h2>👋 Olá! Eu sou o Elongio Neto</h2>
-<p align="center">🛸 Sempre aprendendo, sempre codando — bem-vindo ao meu <strong>Githobby</strong>!</p>
 
-
-<p align="center">
-  🎓 Estudo no Senai-Pr ADS
-  💻 Apaixonado por tecnologia, programação e desenvolvimento web <br>
-  🎨 Curto muito front-end e estou explorando o universo do back-end <br>
-  🚀 Este é o meu Githobby: onde pratico, estudo e compartilho o que aprendo
-</p>
 
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
