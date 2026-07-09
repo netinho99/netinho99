@@ -6,7 +6,7 @@ Durante minha jornada de aprendizado em desenvolvimento web, publiquei diversos 
 
 Atualmente, estou mantendo apenas dois projetos que pretendo evoluir continuamente:
 
--(PRIVADO)  BugueiComprando — Plataforma focada em recomendações de produtos, comparações e experiência do usuário.
+- (PRIVADO)  BugueiComprando — Plataforma focada em recomendações de produtos, comparações e experiência do usuário.
 - (PRIVADO) FaceLotoWeb — Projeto voltado para a comunidade da Lotofácil, com foco em interação, estatísticas e recursos para apostadores.
 
 Esses serão meus projetos de longo prazo e servirão como laboratório para aplicar novas tecnologias, arquiteturas e boas práticas.
