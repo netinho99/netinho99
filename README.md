@@ -1,5 +1,7 @@
-<h1 align="center"> Olá, seja bem-vindo!</h1><p align="center">
-Este GitHub está passando por uma nova fase.
+<h1 align="center"> Fala, Dev! Tudo joia?</h1>
+
+<p align="center">
+Seja bem-vindo ao meu GitHub. 
 </p>
 
 Sobre
