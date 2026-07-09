@@ -1,6 +1,6 @@
 <h1 align="center"> Olá, seja bem-vindo!</h1><p align="center">
 Este GitHub está passando por uma nova fase.
-</p>---
+</p>
 
 Sobre
 
