@@ -1,71 +1,80 @@
-👋 Olá, seja bem-vindo!
-
+<h1 align="center"> Olá, seja bem-vindo!</h1><p align="center">
 Este GitHub está passando por uma nova fase.
+</p>---
 
-Durante minha jornada de aprendizado em desenvolvimento web, publiquei diversos projetos que serviram como base para entender HTML, CSS e JavaScript. Eles fizeram parte da minha evolução como desenvolvedor, mas decidi reorganizar completamente meu portfólio para refletir melhor meus objetivos atuais.
+Sobre
 
-Atualmente, estou mantendo apenas dois projetos que pretendo evoluir continuamente:
+Quando comecei a estudar desenvolvimento web, publiquei vários projetos para praticar HTML, CSS e JavaScript. Eles foram importantes para minha evolução, mas decidi reorganizar meu GitHub para que ele represente melhor o momento em que estou hoje.
 
-- (PRIVADO)  BugueiComprando — Plataforma focada em recomendações de produtos, comparações e experiência do usuário.
-- (PRIVADO) FaceLotoWeb — Projeto voltado para a comunidade da Lotofácil, com foco em interação, estatísticas e recursos para apostadores.
+No momento, estou mantendo apenas dois projetos principais:
 
-Esses serão meus projetos de longo prazo e servirão como laboratório para aplicar novas tecnologias, arquiteturas e boas práticas.
+-  BugueiComprando (privado) — Plataforma de recomendações de produtos e comparação de ofertas.
+-  FaceLotoWeb (privado) — Projeto voltado para a comunidade da Lotofácil, com foco em interação e estatísticas.
+
+A ideia é continuar evoluindo esses projetos enquanto construo novos repositórios.
 
 ---
 
-🚀 Próxima etapa
+ O que estou estudando
 
-Meu foco agora é desenvolver aplicações modernas utilizando o ecossistema JavaScript/TypeScript.
+Meu foco agora é aprofundar meus conhecimentos no ecossistema JavaScript/TypeScript.
 
-💻 Linguagens
+Linguagens
 
-- TypeScript
 - JavaScript
+- TypeScript
 
-⚙️ Runtime
+Runtime
 
 - Node.js
 
-🛠️ Frameworks e tecnologias
+Frameworks
 
 - Express.js
 - Fastify
 - NestJS
-- HTML5
-- CSS3
 
-🗄️ Banco de dados
+Banco de dados
 
 - SQLite
 - PostgreSQL
 - MySQL
 
-🔗 APIs
+APIs
 
-- REST API
-- Consumo de APIs
-- Criação de APIs
+- REST
+- Integração com APIs
 - Autenticação com JWT
 
-🧰 Ferramentas
+Ferramentas
 
 - Git & GitHub
 - npm
-- Postman
 - Docker
+- Postman
 - ESLint
 - Prettier
 
-🏗️ Arquitetura e boas práticas
+Boas práticas
 
 - Clean Code
 - SOLID
-- Estrutura em camadas
 - Organização de projetos
-- Separação de responsabilidades
+- Arquitetura em camadas
 - Tratamento de erros
-- Variáveis de ambiente
-- Boas práticas de desenvolvimento
 
-Cada novo repositório será desenvolvido para colocar esses conceitos em prática, simulando projetos reais e documentando minha evolução como desenvolvedor.
+---
 
+ Objetivo
+
+Meu objetivo é construir uma base sólida em Frontend e Backend.
+
+Grande parte do que aprendo vem da prática, estudando documentação oficial, projetos open source, vídeos, cursos e desenvolvendo aplicações do início ao fim.
+
+Cada novo repositório representa um passo da minha evolução como desenvolvedor.
+
+---
+
+<p align="center">
+<i>Aprender, construir, errar, melhorar e repetir.</i> 🚀
+</p>
