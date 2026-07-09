@@ -4,7 +4,6 @@
 Seja bem-vindo ao meu GitHub. 
 </p>
 
-Sobre
 
 Quando comecei a estudar desenvolvimento web, publiquei vários projetos para praticar HTML, CSS e JavaScript. Eles foram importantes para minha evolução, mas decidi reorganizar meu GitHub para que ele represente melhor o momento em que estou hoje.
 
