@@ -73,8 +73,3 @@ Grande parte do que aprendo vem da prática, estudando documentação oficial, p
 
 Cada novo repositório representa um passo da minha evolução como desenvolvedor.
 
----
-
-<p align="center">
-<i>Aprender, construir, errar, melhorar e repetir.</i> 🚀
-</p>
